@@ -364,19 +364,6 @@ Developed machine learning models to predict ICU admission during COVID-19 pande
 
 ---
 
-## Education
-
-**Master of Science in Mathematics & Statistics** | *Distinction*  
-University of West London | 2023 – 2024
-
-**Bachelor of Science in Computer Science & Mathematics**  
-University of Leeds | 2017 – 2022
-
-**A-Level Equivalent: Computer Science with Foundation**  
-University of West London | 2016 – 2017
-
----
-
 ## Publications & Certifications
 
 ### Published Research
