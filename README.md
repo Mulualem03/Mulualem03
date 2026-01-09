@@ -353,8 +353,10 @@ Developed machine learning models to predict ICU admission during COVID-19 pande
 - Assess student performance through coursework, coding assignments, and technical presentations
 
 **Data Science Placement** | NHS England (NHSE) | *Jun 2025*
-- Completed a cancer-focused data science project as part of work experience placement at NHSE, using synthetic NHS Simulacrum data.
-- Applied core healthcare data science methods including exploratory data analysis, feature engineering, and machine learning model development.
+- Completed a cancer-focused data science project as part of work experience placement at NHSE,
+  using synthetic NHS Simulacrum data.
+- Applied core healthcare data science methods including exploratory data analysis,
+  feature engineering, and machine learning model development.
 
 **Trainee Software, Cloud & Data Engineer** | AiCore | *Dec 2024 – May 2025*
 - Completed intensive programme in software engineering, data engineering, and cloud architecture
